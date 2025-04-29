@@ -3,6 +3,7 @@ transcript - versão 1.0
 pip install -U openai-whisper elevenlabs
 '''
 
+
 from Scripts.library import *
 
 
